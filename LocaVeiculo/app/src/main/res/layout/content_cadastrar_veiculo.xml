@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+    <EditText
+        android:id="@+id/Veiculo"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Veiculo:"
+        >
+    </EditText>
+
+    <EditText
+        android:id="@+id/Ano"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Ano:"
+        >
+    </EditText>
+
+    <EditText
+        android:id="@+id/Cor"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Cor:"
+        >
+    </EditText>
+
+    <EditText
+        android:id="@+id/KM"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="KM:"
+        >
+    </EditText>
+
+    <EditText
+        android:id="@+id/Nota"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Nota:"
+        >
+    </EditText>
+
+    <android.support.v7.widget.AppCompatTextView
+        android:id="@+id/appCompatTextViewLoginLink"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:gravity="center"
+        android:text="Cadastrar Veiculo"
+        android:textSize="16dp" />
+
+
+
+</LinearLayout>

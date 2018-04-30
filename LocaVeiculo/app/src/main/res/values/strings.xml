@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LocaVeiculo</string>
+    <string name="title_activity_cadastrar_veiculo">CadastrarVeiculo</string>
+    <string name="title_activity_listar_veiculo">ListarVeiculo</string>
+</resources>
